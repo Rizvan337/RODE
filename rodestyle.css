@@ -77,7 +77,7 @@ transform: translate(270px,10px);
     width: 100%;
     height: 550px;
     background-color: red;
-    background-image: url('/assets/rode-expect.jpeg');
+    background-image: url('/RODE/assets/rode-expect.jpeg');
     margin-top: -20px;
 }   
 .img3-1{
@@ -152,7 +152,7 @@ transform: translate(270px,10px);
     width: 100%;
     height: 550px;
     background-color: red;
-    background-image: url('/assets/rodemic1.jpeg');
+    background-image: url('/RODE/assets/rodemic1.jpeg');
     margin-top: -20px;
     padding-left: 580px;
 }   
@@ -233,7 +233,7 @@ transform: translate(270px,10px);
     width: 100%;
     height: 550px;
     background-color: red;
-    background-image: url('/assets/rodesmartwatch5.jpeg');
+    background-image: url('/RODE/assets/rodesmartwatch5.jpeg');
     margin-top: -20px;
 }   
 .img5-1{
@@ -315,7 +315,7 @@ transform: translate(270px,10px);
     width: 100%;
     height: 550px;
     background-color: red;
-    background-image: url('/assets/headsetrode.jpeg');
+    background-image: url('/RODE/assets/headsetrode.jpeg');
     margin-top: -20px;
     padding-left: 580px;
 }   
@@ -375,7 +375,7 @@ transform: translate(270px,10px);
     width: 100%;
     height: 550px;
     background-color: white;
-    background-image: url('/assets/PHONCAGE3.jpeg');
+    background-image: url('/RODE/assets/PHONCAGE3.jpeg');
     margin-top: -20px;
 }   
 .img7-1{
@@ -635,7 +635,7 @@ border: none;
     width: 100%;
     height: 300px;
     background-color: white;
-    background-image: url('/assets/img11-1.png');
+    background-image: url('/RODE/assets/img11-1.png');
     cursor: pointer;
 }
 
@@ -649,7 +649,7 @@ border: none;
     width: 100%;
     height: 300px;
     background-color: rgb(238, 238, 222);
-    background-image: url('/assets/img11-2.jpg');
+    background-image: url('/RODE/assets/img11-2.jpg');
     cursor: pointer;
 }
 .p11-2{
@@ -663,7 +663,7 @@ border: none;
     width: 100%;
     height: 300px;
     background-color: rgb(204, 204, 196);
-    background-image: url('/assets/img11-3.png');
+    background-image: url('/RODE/assets/img11-3.png');
     cursor: pointer;
 }
 .p11-3{
